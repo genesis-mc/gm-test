@@ -1,0 +1,11 @@
+grade:
+  admin:
+    prefix: "§e[admin]"
+  modo:
+    prefix: "§e[modo]"
+  helpeur:
+    prefix: "§e[helpeur]"
+  vip:
+    prefix: "§e[VIP]"
+  joueur:
+    prefix: ""

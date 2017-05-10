@@ -1,0 +1,9 @@
+name : golema_test
+author : restray
+version : 1.0.0
+main : me.restray.golema.main
+
+commands:
+  timer:
+    usage: /timer
+    description: Know the time of a player on a server
